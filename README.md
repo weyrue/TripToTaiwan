@@ -17,3 +17,7 @@ git config 问题：
 
    
 # sourceTree配置
+
+1. 创建remote repositories
+2. 设置default账户
+3. options/network中勾选proxy for git
